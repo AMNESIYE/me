@@ -2,10 +2,7 @@ import './App.scss';
 import {Header} from './components/core/header/header';
 import {Footer} from './components/core/footer/footer';
 import {
-    BrowserRouter as Router,
-    Link,
-    Route,
-    Switch,
+    BrowserRouter as Router
 } from 'react-router-dom';
 
 function App() {

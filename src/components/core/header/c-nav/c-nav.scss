@@ -1,0 +1,9 @@
+a {
+  .nav-link::after{
+    all: unset;
+  }
+}
+
+#basic-nav-dropdown {
+  margin-right: 8px;
+}
